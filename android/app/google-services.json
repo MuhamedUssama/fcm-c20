@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6512102209",
+    "project_id": "fcm-c20",
+    "storage_bucket": "fcm-c20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6512102209:android:7f8a5ba33f1d9069ae2fc0",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JYj6oZh10eg39OL6901nhUq8SQZFrRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
